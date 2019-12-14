@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The web site of nail</title>
+    <!-- The style.css file allows you to change the look of your web pages.
+         If you include the next line in all your web pages, they will all share the same look.
+         This makes it easier to make new pages for your site. -->
+   
+  </head>
+  <body bgcolor=seagreen>
+  <font color=red face=cursive><h1>информация про меня увлекаюсь  </h1></font>
+  <font color=blue size=5 facу=cursive> <p> увлекаюсь созданием сайтов и боксом учусь в 7 классе</font>
+<img src=https://img.tsn.ua/cached/1546420839/tsn-0aac7b3bbd08e91384419d4ae49bc10f/thumbs/1340x530/7e/7f/4abcf5e8f7c8735f02fa4dbfd7d57f7e.jpeg widht=100px height=320px>
+</br></br></br></br></br>
+<p>Информация для сотрудничества
+  <p><a href=https://vk.com>ссылка на вк </a>
+  <p><a href=mailto:nail.564532@gmail.com>ссылка на почту </a>
+  <p><a href=tel:+79018224361>номер тел.
+  </body>
+</html>
